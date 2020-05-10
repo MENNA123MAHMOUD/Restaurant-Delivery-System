@@ -1,0 +1,50 @@
+2  1  1  0  1
+7  17  7  0  0
+8  8  6  0  2
+9  16  7  0  2
+11  18  7  0  4
+16  22  11  0  5
+17  28  16  0  1
+RegionA:
+    orders: 7  [Norm:3, Froz:3, VIP:1]
+    Motorc:9  [Norm:5 ,Froz:3 ,VIP:1]
+    AVG WAIT=0   AVD SERV =2
+
+1  2  1  0  0
+4  3  1  0  3
+6  9  6  0  0
+9  19  7  0  2
+11  20  7  0  4
+13  23  11  0  2
+19  29  16  0  3
+22  21  7  0  15
+RegionB:
+    orders: 8  [Norm:3, Froz:1, VIP:4]
+    Motorc:11  [Norm:6 ,Froz:3 ,VIP:2]
+    AVG WAIT=0   AVD SERV =3
+
+6  4  2  0  4
+7  11  7  0  0
+9  10  7  0  2
+12  24  11  0  1
+15  12  7  0  8
+17  27  15  0  2
+RegionC:
+    orders: 6  [Norm:2, Froz:3, VIP:1]
+    Motorc:7  [Norm:4 ,Froz:2 ,VIP:1]
+    AVG WAIT=0   AVD SERV =2
+
+6  5  5  0  1
+8  14  7  0  1
+8  7  6  0  2
+9  13  7  0  2
+9  6  6  0  3
+11  25  11  0  0
+11  15  7  0  4
+16  26  14  0  2
+20  30  16  0  4
+RegionD:
+    orders: 9  [Norm:3, Froz:4, VIP:2]
+    Motorc:15  [Norm:9 ,Froz:4 ,VIP:2]
+    AVG WAIT=0   AVD SERV =2
+
